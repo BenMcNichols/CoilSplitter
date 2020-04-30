@@ -1,0 +1,6 @@
+D:\bmcn6\Documents\C#_Projects\CoilSplitter\CoilSplitter\bin\Debug\CoilSplitter.dll
+D:\bmcn6\Documents\C#_Projects\CoilSplitter\CoilSplitter\bin\Debug\CoilSplitter.pdb
+D:\bmcn6\Documents\C#_Projects\CoilSplitter\CoilSplitter\obj\Debug\CoilSplitter.csprojAssemblyReference.cache
+D:\bmcn6\Documents\C#_Projects\CoilSplitter\CoilSplitter\obj\Debug\CoilSplitter.csproj.CoreCompileInputs.cache
+D:\bmcn6\Documents\C#_Projects\CoilSplitter\CoilSplitter\obj\Debug\CoilSplitter.dll
+D:\bmcn6\Documents\C#_Projects\CoilSplitter\CoilSplitter\obj\Debug\CoilSplitter.pdb
